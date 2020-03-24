@@ -74,3 +74,7 @@ target/
 
 # FortifyAPI Dev
 webbreaker/fortifyapi
+
+# Chocolatey Package files
+choco\webbreaker\*.nupkg
+choco\webbreaker\tools\*.exe
