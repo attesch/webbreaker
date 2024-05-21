@@ -11,7 +11,7 @@ ndg-httpsclient
 pyasn1
 pybreaker
 pyOpenSSL
-requests>=2.18.4
+requests>=2.32.0
 threadfixproapi>=1.0.5
 validators
 webinspectapi==1.0.31
